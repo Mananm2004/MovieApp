@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { removetv,asyncloadtv } from '../store/actions/tvactions';
 import { useNavigate, useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-import Loading from './partials/loading';
+import Loading from './partials/Loading';
 import Horizontalcards from './partials/horizontalcards';
 import { useLocation } from 'react-router-dom';
 import { Outlet } from 'react-router-dom';
