@@ -4,6 +4,7 @@ This project is a web application inspired by IMDb (Internet Movie Database). It
 Features
 Trending Section: Displays trending movies, TV shows, and top-rated content.
 Search Functionality: Users can search for movies, TV shows, and celebrities.
+
 Detailed Pages:
 Movie and TV Show pages with plot summaries, cast details, and ratings.
 Celebrity profiles with biographies and filmography.
