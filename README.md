@@ -1,4 +1,4 @@
-# The website is down due to TMDb being banned in India
+# 😞 The website is down due to TMDb being banned in India
 # Movie App
 
 This project is a web application inspired by IMDb (Internet Movie Database). It allows users to explore detailed information about movies, TV shows, and celebrities, offering a similar experience to the original IMDb platform.It utilizes TMDB api for the movie database
